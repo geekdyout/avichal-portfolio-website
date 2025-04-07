@@ -49,7 +49,7 @@ const resumeData: ResumeData = {
   linkedin: "https://www.linkedin.com/in/avichal-verma-ln/",
   github: "https://github.com/AVICII-24",
   instagram: "https://www.instagram.com/_aviichii_/",
-  bio: "Chemical Engineering graduate with a minor in Physics from BITS Pilani KK Birla Goa Campus. Passionate about space technologya and AI-ML enthusiast. Experienced in developing machine learning models for exoplanet detection.",
+  bio: "Chemical Engineering graduate with a minor in Physics from BITS Pilani KK Birla Goa Campus. Passionate about space technology and AI-ML enthusiast. Experienced in developing machine learning models for exoplanet detection.",
   
   education: [
     {
