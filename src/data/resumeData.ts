@@ -57,8 +57,7 @@ const resumeData: ResumeData = {
       institution: "BITS Pilani KK Birla Goa Campus",
       period: "2023 - 2027",
       details: [
-        "CGPA: 6.25/10",
-        "JEE Mains Percentile: 94.2%ile"
+        "CGPA: 6.25/10"
       ]
     }
   ],
